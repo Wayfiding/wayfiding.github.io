@@ -36,7 +36,7 @@ const translations = {
       jobs: [
         {
           role: "Full Stack Developer",
-          company: "Ericsson Innovation S.A.",
+          company: "Open Labs",
           period: "Current",
           items: [
             "Spearheaded the main automation app (React + Node.js) for revenue management, reducing manual processes by 40%.",
@@ -122,7 +122,7 @@ const translations = {
       jobs: [
         {
           role: "Desenvolvedor Full Stack",
-          company: "Ericsson Innovation S.A.",
+          company: "Open Labs",
           period: "Atual",
           items: [
             "Liderou o app principal de automação (React + Node.js) para gestão de receita, reduzindo processos manuais em 40%.",
